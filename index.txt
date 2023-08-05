@@ -1,0 +1,2 @@
+How does an example Anki card work?;You can indicate an italic text by prefixing it with $. And this text is also included :) ;index
+What is this?;This is another test anki card ;index
