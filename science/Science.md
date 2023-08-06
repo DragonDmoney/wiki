@@ -1,3 +1,2 @@
+cards are [here](/science/all.txt)
 # Science
-
-## [Chapter 1](Chapter 1.md)

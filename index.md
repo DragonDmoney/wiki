@@ -1,9 +1,15 @@
 cards are [here](./all.txt)
-# Academics and Notes
+# Dorian Spiegel's Academic Wiki
 
-This is an export of my local wiki.vim onto a public domain website.
+## Setup
 
-This notes system is a custom tool to include [anki](https://apps.ankiweb.net/) flashcards.
+### Vim
+
+This is an export of my local [wiki.vim](https://github.com/lervag/wiki.vim) onto a public domain website. [Vim](https://vm.org) is a highly configurable text editor built to make creating and changing any kind of text very efficient. This allows me to type extremely fast and efficiently, which is why I chose it.
+
+### Anki
+
+[Anki](https://apps.ankiweb.net) is an intelligent flashcard system based on a proven studying technique known as [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition)
 
 The way that anki flashcards are organized:
 
@@ -16,11 +22,26 @@ The way that anki flashcards are organized:
 
 ```
 
-## 9th Grade
+## Notes
+
+### 9th Grade
 
 - [English](english/English.md)
 - [Math](math/Math.md)
 - [Science](science/Science.md)
+- [History](history/History.md)
+- [French](french/French.md)
+
+## Usage
+
+Source code and raw markdown files are available on my [github](https://github.com/dragondmoney/wiki)
+
+Anki cards are defined as such:
+An ***italic and bolded*** text prefixed with ***$ <question>***
+and a blockquote with the answer:
+> this is a blockquote
+
+### Examples:
 
 ***$ How does an example Anki card work?***
 > You can indicate an italic text by prefixing it with $.
@@ -28,3 +49,5 @@ The way that anki flashcards are organized:
 
 ***$ What is this?***
 > This is another test anki card
+
+You can see these exported cards are at [index.txt](/index.txt)
