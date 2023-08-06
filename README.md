@@ -21,7 +21,7 @@ If you want to make changes to these notes, feel free to make a PR!
 To create importable anki cards, just run: `python3 generate_ankis.py`. No dependencies required :)
 
 Which will return something like:
-```bash
+```
 ~/wiki$ python3 generate_ankis.py 
 
                  _    _    _____                           _             
