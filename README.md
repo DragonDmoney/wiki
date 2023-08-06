@@ -2,6 +2,20 @@
 
 A simple tool that allows you to have a vim-wiki, and a custom syntax to search for anki cards
 
+## Development
+
+Make sure you have ruby and bundle installed, and install deps
+```
+make install_deps
+```
+
+To preview, run
+```
+make preview
+```
+
+If you want to make changes to these notes, feel free to make a PR!
+
 ## Usage
 
 To create importable anki cards, just run: `python3 generate_ankis.py`. No dependencies required :)
