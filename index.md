@@ -5,7 +5,7 @@ cards are [here](./all.txt)
 
 ### Vim
 
-This is an export of my local [wiki.vim](https://github.com/lervag/wiki.vim) onto a public domain website. [Vim](https://vm.org) is a highly configurable text editor built to make creating and changing any kind of text very efficient. This allows me to type extremely fast and efficiently, which is why I chose it.
+This is an export of my local [wiki.vim](https://github.com/lervag/wiki.vim) onto a public domain website. [Vim](https://vim.org) is a highly configurable text editor built to make creating and changing any kind of text very efficient. This allows me to type extremely fast and efficiently, which is why I chose it.
 
 ### Anki
 
