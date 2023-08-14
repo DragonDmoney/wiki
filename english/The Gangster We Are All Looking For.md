@@ -12,9 +12,11 @@ Written by a vietnamese author Lê Thị Diễm Thúy
 Typically familial bonding only happens in a very traumatic experience. I.e: blood bonding. Interesting to put it this way (metaphor)
 
 
+
 > *Above the palm trees were large block letters that looked like they were on fire: SUNNY SAN DIEGO (6)*
 
 Welcome to america! Haha (funny)
+
 
 
 > *I looked through the triangle formed by the woman's tanned knee, calf and thigh and saw the calm, sleeping waves of the ocean. My mother was out there somwehere. My father had said so (6)*
