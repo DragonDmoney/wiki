@@ -7,7 +7,7 @@ Written by a vietnamese author Lê Thị Diễm Thúy
 
 ## Narrative Style
 
-The story is told through the voice of an immigrant girl, and the author switches tenses (past and present back and forth) to create an anachronistic prose. She's heavily utilises descriptive sentences and vivid imagery **in order to provoke thought in the reader, and make them contemplate their own experiences similar**
+The story is told through the voice of an immigrant girl, and the author switches tenses (past and present back and forth) to create an anachronistic prose. She's heavily utilises descriptive sentences and vivid imagery **in order to provoke thought in the reader, and make them contemplate their own experiences similar to those told in the novel.**
 
 That, in essence, is what I believe makes the book so unique. The novel doesn't follow a traditional plot structure, rather its a fragmented and fluid story. I don't believe the author's intention WAS to tell a story, but rather to kindle internal reflection in the reader.
 
@@ -15,13 +15,13 @@ That, in essence, is what I believe makes the book so unique. The novel doesn't 
 
 Another thing I noticed throughout the book is a constant changes in tone. It typically starts with a pleasant memory, and then concludes with how the object of the memory has become tarnished over time. From [Nina Coomes](https://catapult.co/stories/mistranslate-setsunai-on-feeling-both-sorrow-and-joy), "‘Setsunai’ implies something once bright, now faded. It is the painful twinge at the edge of a memory, the joy in the knowledge that everything is temporary."
 
-I think this term is a perfect embodiment of the feeling the author is trying to provoke in the reader.
+I think this term is a perfect embodiment of the feeling the author tries to provoke in the reader.
 
 ## Symbols, Motifs, and Themes
 
 ### Water
 
-Water is a prominent motif throughout the story, as it represents a connection to her previous life and home. Her brother died of drowning, and her home town in Vietnam was a fishing village. The pool she had in her apartment complex is a connection to her past life, and although she mentioned she swam all the ime in her hometown, her parents never let her swim in the pool. Throughout the book, water is a symbol for death (in particular her brothers death), and its very fitting that the book concludes with her ressurecting the memory and image of her brother by uncontrollable running back into the ocean.
+Water is a prominent motif throughout the story, as it represents a connection to her previous life and home. Her brother died of drowning, and her home town in Vietnam was a fishing village. The pool she had in her apartment complex is a connection to her past life, and although she mentioned she swam all the ime in her hometown, her parents never let her swim in the pool. Throughout the book, water is a symbol for death (in particular her brothers death), and its very fitting that the book concludes with her ressurecting the memory and image of her brother by uncontrollably running back into the ocean.
 
 ### The Gangster
 
