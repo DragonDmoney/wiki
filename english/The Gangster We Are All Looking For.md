@@ -176,4 +176,47 @@ The passage about the bum is interesting. Nothing to do and nowhere to go.
 
 She mentions how happy the metal tube outside the playground was, with kids playing, secrets telling. Then cuts to it being the arm of a dying giant, and relating that to a napalm bombing. **setsunai**
 
+#### Page 92
+
+> *I see his hands punch hands punch hands punch blood*
+
+---
+
+> *She sends them out like birds gliding through the sky with nowhere in particular to go. Until they crash.*
+
+- Interesting writing idea
+
+#### Page 93
+
+> *When I grow up I am going to be the gangster we are all looking for*
+
+#### Page 104
+
+Talks about good memories of her father "my young father lifting me in his arms", and then cuts to "I am on my feet again, watching my father leave"
+
+#### Page 114
+
+> *As evening approached, they talked about heat as some-thing that was in the past, as well as certain fruits*
+
+---
+
+> *Like a blind man circling a small room, searching for but always missing the door that led to the hallway, the streets, the open air*
+
+- Awesome similee
+
+#### Page 128
+
+> *He had planted the desert rose three years before and was happy to see it was now beginning to bud... He picked dead leaves from the jasmine plants*
+
+- Another examples of setsunai
+
+#### Page 135
+
+It's simple but deep meaning descriptions like the star game with her grandpa that are interesting.
+
+#### Page 142
+
+> *What my brother found funnier than anything else was when one of the women said...*
+
+- She still treats her brother as something living.
 
