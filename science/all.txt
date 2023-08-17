@@ -15,3 +15,7 @@ What is a control group?;A tested group not affected by the independent variable
 What is a negative control group?;No change ;The_Scientific_Method
 
 What is an experimental/positive control group?;The group that uses the independent variable to test on. ;The_Scientific_Method
+
+What is quantitative data?;numeral results, measurable, can perform statistical analysis ;The_Scientific_Method
+
+What is qualitative data?;non-numerical results, results can be subjective, cannot statistically analyze. ;The_Scientific_Method

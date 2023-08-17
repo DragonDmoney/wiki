@@ -48,3 +48,27 @@ If alternate hypothesis mispredicts the relationship, it is only **partially sup
 
 ***$ What is an experimental/positive control group?***
 > The group that uses the independent variable to test on.
+
+## Data collection
+
+***$ What is quantitative data?***
+> numeral results, measurable, can perform statistical analysis
+
+***$ What is qualitative data?***
+> non-numerical results, results can be subjective, cannot statistically analyze.
+
+## Data table
+
+Tables are a convenient way of recording data. Nevertheless they follow certain conventions
+- Title in each column-amount of fertilizer
+- Correct units for each measurement - g,cm, m. Only **metric units** can be used in scientific investigations
+- Independent variable in first column arranged in ascending order
+- Dependent variable(s) in succeeding columns
+
+Title
+
+| Fert (g) | Day 1 | Day 2 | Day 3 |
+|----------|-------|-------|-------|
+| 0        | 20    | 21    | 22    | -> negative control group
+| 1        | 20    | 23    | 25    | -> positive control group
+| 2        | 20    | 21    | 22    |

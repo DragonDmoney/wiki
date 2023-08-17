@@ -1,3 +1,24 @@
 How does an example Anki card work?;You can indicate an italic text by prefixing it with $. And this text is also included :) ;index
 
 What is this?;This is another test anki card ;index
+What makes a question testable?;It must have testable (quantifiable) values. Height, weight, length, etc. It should always have an independent variable ;The_Scientific_Method
+
+What is an independent variable?;Something that I am going to change (manipulated) ;The_Scientific_Method
+
+What is a dependent variable?;Something that I am going to measure ;The_Scientific_Method
+
+What are constant variables?;Other variables that must be identified and controlled ;The_Scientific_Method
+
+What is a null hypothesis?;The difference that is seen between the two variables is by chance/there is no stairididal difference between the two variables (no relationship) There is no relationship between the amount of fertilizer and length of plants. ;The_Scientific_Method
+
+What is an alternate hypothesis;This shows that there is a relationship between the variables and there is a reason behind the difference. Prediction -> if, then, because If more fertilizer is added, then the height of the plant will increase, because fertilizer has more nutrients ;The_Scientific_Method
+
+What is a control group?;A tested group not affected by the independent variable, used for comparison ;The_Scientific_Method
+
+What is a negative control group?;No change ;The_Scientific_Method
+
+What is an experimental/positive control group?;The group that uses the independent variable to test on. ;The_Scientific_Method
+
+What is quantitative data?;numeral results, measurable, can perform statistical analysis ;The_Scientific_Method
+
+What is qualitative data?;non-numerical results, results can be subjective, cannot statistically analyze. ;The_Scientific_Method
