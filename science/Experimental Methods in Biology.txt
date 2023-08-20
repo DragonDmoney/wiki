@@ -1,0 +1,1 @@
+What is standard error?;standard error = standard deviation/sqrt(# of samples) ;Experimental_Methods_in_Biology

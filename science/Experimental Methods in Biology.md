@@ -1,3 +1,4 @@
+cards are [here](/science/Experimental Methods in Biology.txt)
 # Experimental Methods in Biology
 
 Using statistics in biology (data analysis):
