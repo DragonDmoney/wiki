@@ -19,3 +19,8 @@ What is an experimental/positive control group?;The group that uses the independ
 What is quantitative data?;numeral results, measurable, can perform statistical analysis ;The_Scientific_Method
 
 What is qualitative data?;non-numerical results, results can be subjective, cannot statistically analyze. ;The_Scientific_Method
+What is standard error?;standard error = standard deviation/sqrt(# of samples) ;Experimental_Methods_in_Biology
+
+Is the x-axis an independent variable (in line graphs)?;No, the x-axis is a control variable, time. ;Experimental_Methods_in_Biology
+
+What is R^2 (scatter plot)?;The R^2 value denotes how much of the variance in your dependent variable is explained by your independent variable. An R^2 value of 1 means 100% of the variance is explained. A high R^2 value indicates a high likelhood that two variables are correlated. ;Experimental_Methods_in_Biology
