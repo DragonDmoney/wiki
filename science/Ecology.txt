@@ -1,0 +1,8 @@
+What is ecology?;Ecology is the study of interactions ;Ecology
+What is biotic/abiotic?;Biotic describes living things, abiotic is non-living things. ;Ecology
+How do yo know if two organisms are of the same specie?;They can reproduce with each other, interbreed, produce fertile offspring ;Ecology
+What are individual interactions?;Survival and reproduction, the unit of natural selection ;Ecology
+What are population interactions?;Population dynamics, the unit of evolution ;Ecology
+What are community interactions?;Interactions among species ;Ecology
+What are ecosystem interactions?;Flow of energy and matter ;Ecology
+What are biosphere interactions?;Global processes ;Ecology

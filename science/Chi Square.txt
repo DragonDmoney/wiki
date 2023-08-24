@@ -1,0 +1,1 @@
+What is a degree of freedom?;Degree of freedom is number of possible outcomes - 1. For example, a dice roll would have 5 degrees of freedom. ;Chi_Square
