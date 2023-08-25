@@ -28,3 +28,4 @@ How we study interactions
 > Global processes
 
 ## [Population Ecology](Population Ecology.md)
+## [Community Ecology](Community Ecology.md)
