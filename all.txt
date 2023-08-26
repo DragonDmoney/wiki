@@ -28,6 +28,25 @@ What is standard error?;standard error = standard deviation/sqrt(# of samples) ;
 Is the x-axis an independent variable (in line graphs)?;No, the x-axis is a control variable, time. ;Experimental_Methods_in_Biology
 
 What is R^2 (scatter plot)?;The R^2 value denotes how much of the variance in your dependent variable is explained by your independent variable. An R^2 value of 1 means 100% of the variance is explained. A high R^2 value indicates a high likelhood that two variables are correlated. ;Experimental_Methods_in_Biology
+What is a community?;A group of populations of different species living close enough to interact ;Community_Ecology
+
+What are interspecific interactions?;Interspecific between two different species ;Community_Ecology
+
+What are intraspecific interactions?;Interactions within the same species. ;Community_Ecology
+
+What is a niche?;Ecological address of a specie. What you eat, habitat, what are your competitors, etc. ;Community_Ecology
+
+What is the competitive exclusion principle?;Two species cannot coexist if they compete for the same resource, the one that competes best will overtake the other species. ;Community_Ecology
+
+What is the resource partition principle?;When species co-exist even though they have overlapping niches. <img src="https://i.ytimg.com/vi/hjHxMtOCq-o/hqdefault.jpg"> ;Community_Ecology
+
+What is the fundamental niche?;Original niche for a specie ;Community_Ecology
+
+What is the realized niche?;Niche occupied by a specie in case of competition with a stronger specie. ;Community_Ecology
+
+What is a keystone species?;A species that has a disproportionate effect on community: predator, mutualist, ecosystem engineer. If a keystone species declines, its decline can have a negative effect on the entire community. ;Community_Ecology
+
+What is a food web?;Multiple food chains ;Community_Ecology
 How is a hypothesis shaped?;A hypothesis is shaped through exploration and discovery - such as reading scientific literature and making observations. Hypotheses are also shaped through interactions with the scientific community and larger society. ;MQB_1
 
 How is a hypothesis tested?;Scientists test hypotheses with controlled experiments ;MQB_1
@@ -83,6 +102,11 @@ What are limiting factors?;Constraints that prevent a population from reaching m
 What are density-dependent factors?;Any biotic limiting factors. Competition, diseases. ;Population_Ecology
 
 What are density-independent factors?;Any abiotic limiting factors. Natural disasters, hurricanes, flood. ;Population_Ecology
+Segment addition postulate;If B is between A and C, then AB + BC = AC <img src="https://study.com/cimages/multimages/16/segment_addition_postulate-_diagram_1.png"> ;All_theoreoms_and_postulates
+
+Angle addition postulate;If S in the interior of \(\measuredangle PQS + \measuredangle SQR = \measuredangle PQR\) <img src="https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/angle-addition-postulate-1633338379.pngv"> ;All_theoreoms_and_postulates
+
+Two point postulate;Through any two points exists one line. ;All_theoreoms_and_postulates
 vocab: herculean.;-- tremendous in size, strength difficulty, or effort. Father 51 sons and 49 daughters in one night. Most famous for his 12 labors. ;Vocab_Energizers_1
 
 vocab: bowdlerize.;-- remove or change parts considered vulgar or immoral. ;Vocab_Energizers_1
