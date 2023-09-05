@@ -44,7 +44,7 @@ cards are [here](/math/All theoreoms and postulates.txt)
 ## Theorems
 
 ***$ Vertical angles congruence theorem (VACT)***
-> <img src"https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/vertical-angles-1-1621940071.png">
+> <img src="https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/vertical-angles-1-1621940071.png">
 
 ***$ Alternate interior angles theorem***
 > <img src="https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/alternate-interior-angles-theorem-01-1631793110.png">
@@ -60,3 +60,20 @@ cards are [here](/math/All theoreoms and postulates.txt)
 
 ***$ Exterior angles theorem***
 > <img src="https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/exterior-angle-theorem-1620303575.png">
+
+***$ Side-Side-Side Congruence Theorem (SSS Congruence)***
+> If the lengths of the sides of one triangle equal the lengths of the corresponding sides of another triangle, then the triangles are congruent.
+
+***$ Corresponding Parts of Congruent Triangles are Congruent (CPCTC)***
+> corresponding parts of congruent triangles are congruent
+
+***$ Side-Angle-Side Congruence Theorem (SAS)***
+> If two sides of one triangle and the angle between them are equal to the corresponding sides and agle of another triangle, then the two triangles are congruent.
+
+***$ Angle-Side-Angle Congruence Theorem (ASA)***
+> If two angles of one triangle and the side between them are equal to the corresponding angles and side of another triangle, then the two triangles are congruent.
+
+***$ Angle-Angle-Side Congruence Theorem (AAS)***
+> If two angles and a side of one triangle equal the corresponding angles and side in another triangle as shown below, then the triangles are congruent.
+
+

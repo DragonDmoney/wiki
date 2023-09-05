@@ -1,74 +1,20 @@
 How does an example Anki card work?;You can indicate an italic text by prefixing it with $. And this text is also included :) ;index
 
 What is this?;This is another test anki card ;index
-Comma placement: The Idatarod Trail Sled Dog Race begins in March but training starts much sooner.;The Idatarod Trail Sled Dog Race begins in March, but training starts much sooner. Before a coordinating conjuction linking independent clauses ;Comma_Rules
+What is an energy pyramid?;Transfer of energyy from one trophic level to another ;Biosphere_Ecology
 
-Comma placement: Ethic are based on moral social or cultural values.;Ethics are based on moral, social, or cultural values. To seperate words phrases, or clauses in a series. ;Comma_Rules
+What is the 10% law (energy pyramid)?;Only 10% of energy is passed on to the next level. ;Biosphere_Ecology
 
-Comma placement: I didn't like the movie, it was way too long.;I didn't like the movie. It was way too long ;Comma_Rules
+What are decomposers?;Decompsers are things that get energy from all tropic levels, break down organic matter. ;Biosphere_Ecology
 
-Comma placement: She and Jerry are getting married in the fall, they didn't want a summer wedding.;She and Jerry are getting married in the fall; they didn't want a summer wedding. ;Comma_Rules
-vocab: herculean.;-- tremendous in size, strength difficulty, or effort. Father 51 sons and 49 daughters in one night. Most famous for his 12 labors. ;Vocab_Energizers_1
+What is biomass?;The total mass of all the organisms in a tropic level ;Biosphere_Ecology
 
-vocab: bowdlerize.;-- remove or change parts considered vulgar or immoral. ;Vocab_Energizers_1
+What are the elements of life?;Carbon (all life forms), nitrogen (proteins, nucleic acid), phosphorous (nucleic acid). ;Biosphere_Ecology
 
-vocab: pandemonium.;-- utter confusion or wild uproar. ;Vocab_Energizers_1
+What are biogeochemical cycles?;Movements of elements of life have biotic components, geographical components, and chemical components. ;Biosphere_Ecology
 
-vocab: pander.;-- play up to another's desires and weaknesses. ;Vocab_Energizers_1
-
-vocab: quixotic.;-- idealistic but not practical. ;Vocab_Energizers_1
-
-vocab: cynical.;-- doubting the goodness and sincerity of human motives. ;Vocab_Energizers_1
-
-vocab: stoical.;-- indifferent to pain and pleasure. ;Vocab_Energizers_1
-
-vocab: stigma.;-- mark of disgrace. ;Vocab_Energizers_1
-
-vocab: impede.;-- hinder, obstruct, slow down the process of. ;Vocab_Energizers_1
-
-vocab: expedite.;-- speed up; hasten or help the accomplishment of ;Vocab_Energizers_1
-Segment addition postulate;If B is between A and C, then AB + BC = AC <img src="https://study.com/cimages/multimages/16/segment_addition_postulate-_diagram_1.png"> ;All_theoreoms_and_postulates
-
-Angle addition postulate;If S in the interior of \(\measuredangle PQS + \measuredangle SQR = \measuredangle PQR\) <img src="https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/angle-addition-postulate-1633338379.pngv"> ;All_theoreoms_and_postulates
-
-Two point postulate;Through any two points exists one line. ;All_theoreoms_and_postulates
-
-Line intersection postulate;If two lines intersect, then their intersection ie exactly one point ;All_theoreoms_and_postulates
-
-Three point postulate;Through any 3 non collinear points there exists exactly one plane ;All_theoreoms_and_postulates
-
-Plane point postulate;A plan contains at least three noncollinear points ;All_theoreoms_and_postulates
-
-Plane line postulate;If two points lie in a plane, then the line containing them lies in the plane. ;All_theoreoms_and_postulates
-
-Corresponding angles postulate;If two parallel lines are cut by a transversal, then the pairs of corresponding angles are congruent. <img src="https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/corresponding-angles-theorem-1619517679.png"> ;All_theoreoms_and_postulates
-
-Definition of a linear pair;Two adjacent angles that add to 180 ;All_theoreoms_and_postulates
-
-Definition of perpendicular lines;Two lines that intersect at right angles ;All_theoreoms_and_postulates
-
-Definition of supplementary angles;Two angles that add to 180 ;All_theoreoms_and_postulates
-
-Vertical angles congruence theorem (VACT);<img src"https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/vertical-angles-1-1621940071.png"> ;All_theoreoms_and_postulates
-
-Alternate interior angles theorem;<img src="https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/alternate-interior-angles-theorem-01-1631793110.png"> ;All_theoreoms_and_postulates
-
-Alternate exterior angles theorem;<img src="https://embed-ssl.wistia.com/deliveries/a05d03e5eb6f3e971df68670148135ed.webp?image_crop_resized=1280x720"> ;All_theoreoms_and_postulates
-
-Same side interior angles theorem;<img src="https://dr282zn36sxxg.cloudfront.net/datastreams/f-d%3A91ce9eaa5c4a427538d80d88915519d0a21cfbabb9534f1f08cb0850%2BIMAGE_TINY%2BIMAGE_TINY.1"> ;All_theoreoms_and_postulates
-
-Triangle sum theorem;All interior angles of a triangle add to 180. ;All_theoreoms_and_postulates
-
-Exterior angles theorem;<img src="https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/exterior-angle-theorem-1620303575.png"> ;All_theoreoms_and_postulates
-How is a hypothesis shaped?;A hypothesis is shaped through exploration and discovery - such as reading scientific literature and making observations. Hypotheses are also shaped through interactions with the scientific community and larger society. ;MQB_1
-
-How is a hypothesis tested?;Scientists test hypotheses with controlled experiments ;MQB_1
-
-Is the process of science a prescribed linear path?;While forming and testing hypotheses is central to the process, exploration and discovery, plus interactions with the scientific community and society lead to a multitude of pathways through our described model. ;MQB_1
-
-What is inductive reasoning?;Inductive reasoning is the process of drawing conclusions going from the specific to the general. Often contrasted with deductive reasoning ;MQB_1
-
-What is deductive reasoning?;Deductive reasoning is a logical approach where you progress from general ideas to specific conclusions. Often contrasted with inductive reasoning ;MQB_1
+What is eutrophication?;Excess nutrients like phosphorus and nitrogen leads to exponential aquatic plant growth. This depletes dissolved oxygen and prevents sunlight from reahing other plants. As plants and animals die, more oxygen is used up. This creates dead zones. ;Biosphere_Ecology
+What is a degree of freedom?;Degree of freedom is number of possible outcomes - 1. For example, a dice roll would have 5 degrees of freedom. ;Chi_Square
 What makes a question testable?;It must have testable (quantifiable) values. Height, weight, length, etc. It should always have an independent variable ;The_Scientific_Method
 
 What is an independent variable?;Something that I am going to change (manipulated) ;The_Scientific_Method
@@ -90,7 +36,11 @@ What is an experimental/positive control group?;The group that uses the independ
 What is quantitative data?;numeral results, measurable, can perform statistical analysis ;The_Scientific_Method
 
 What is qualitative data?;non-numerical results, results can be subjective, cannot statistically analyze. ;The_Scientific_Method
-What is a degree of freedom?;Degree of freedom is number of possible outcomes - 1. For example, a dice roll would have 5 degrees of freedom. ;Chi_Square
+What is standard error?;standard error = standard deviation/sqrt(# of samples) ;Experimental_Methods_in_Biology
+
+Is the x-axis an independent variable (in line graphs)?;No, the x-axis is a control variable, time. ;Experimental_Methods_in_Biology
+
+What is R^2 (scatter plot)?;The R^2 value denotes how much of the variance in your dependent variable is explained by your independent variable. An R^2 value of 1 means 100% of the variance is explained. A high R^2 value indicates a high likelhood that two variables are correlated. ;Experimental_Methods_in_Biology
 What is a community?;A group of populations of different species living close enough to interact ;Community_Ecology
 
 What are interspecific interactions?;Interspecific between two different species ;Community_Ecology
@@ -110,6 +60,15 @@ What is the realized niche?;Niche occupied by a specie in case of competition wi
 What is a keystone species?;A species that has a disproportionate effect on community: predator, mutualist, ecosystem engineer. If a keystone species declines, its decline can have a negative effect on the entire community. ;Community_Ecology
 
 What is a food web?;Multiple food chains ;Community_Ecology
+How is a hypothesis shaped?;A hypothesis is shaped through exploration and discovery - such as reading scientific literature and making observations. Hypotheses are also shaped through interactions with the scientific community and larger society. ;MQB_1
+
+How is a hypothesis tested?;Scientists test hypotheses with controlled experiments ;MQB_1
+
+Is the process of science a prescribed linear path?;While forming and testing hypotheses is central to the process, exploration and discovery, plus interactions with the scientific community and society lead to a multitude of pathways through our described model. ;MQB_1
+
+What is inductive reasoning?;Inductive reasoning is the process of drawing conclusions going from the specific to the general. Often contrasted with deductive reasoning ;MQB_1
+
+What is deductive reasoning?;Deductive reasoning is a logical approach where you progress from general ideas to specific conclusions. Often contrasted with inductive reasoning ;MQB_1
 What is ecology?;Ecology is the study of interactions ;Ecology
 
 What is biotic/abiotic?;Biotic describes living things, abiotic is non-living things. ;Ecology
@@ -125,11 +84,6 @@ What are community interactions?;Interactions among species ;Ecology
 What are ecosystem interactions?;Flow of energy and matter ;Ecology
 
 What are biosphere interactions?;Global processes ;Ecology
-What is standard error?;standard error = standard deviation/sqrt(# of samples) ;Experimental_Methods_in_Biology
-
-Is the x-axis an independent variable (in line graphs)?;No, the x-axis is a control variable, time. ;Experimental_Methods_in_Biology
-
-What is R^2 (scatter plot)?;The R^2 value denotes how much of the variance in your dependent variable is explained by your independent variable. An R^2 value of 1 means 100% of the variance is explained. A high R^2 value indicates a high likelhood that two variables are correlated. ;Experimental_Methods_in_Biology
 What is a population?;A group of individuals of a single species living in same general read ;Population_Ecology
 
 What is population density?;\(density = \frac{# individuals}{area}\) ;Population_Ecology
@@ -161,3 +115,72 @@ What are limiting factors?;Constraints that prevent a population from reaching m
 What are density-dependent factors?;Any biotic limiting factors. Competition, diseases. ;Population_Ecology
 
 What are density-independent factors?;Any abiotic limiting factors. Natural disasters, hurricanes, flood. ;Population_Ecology
+Segment addition postulate;If B is between A and C, then AB + BC = AC <img src="https://study.com/cimages/multimages/16/segment_addition_postulate-_diagram_1.png"> ;All_theoreoms_and_postulates
+
+Angle addition postulate;If S in the interior of \(\measuredangle PQS + \measuredangle SQR = \measuredangle PQR\) <img src="https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/angle-addition-postulate-1633338379.pngv"> ;All_theoreoms_and_postulates
+
+Two point postulate;Through any two points exists one line. ;All_theoreoms_and_postulates
+
+Line intersection postulate;If two lines intersect, then their intersection ie exactly one point ;All_theoreoms_and_postulates
+
+Three point postulate;Through any 3 non collinear points there exists exactly one plane ;All_theoreoms_and_postulates
+
+Plane point postulate;A plan contains at least three noncollinear points ;All_theoreoms_and_postulates
+
+Plane line postulate;If two points lie in a plane, then the line containing them lies in the plane. ;All_theoreoms_and_postulates
+
+Corresponding angles postulate;If two parallel lines are cut by a transversal, then the pairs of corresponding angles are congruent. <img src="https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/corresponding-angles-theorem-1619517679.png"> ;All_theoreoms_and_postulates
+
+Definition of a linear pair;Two adjacent angles that add to 180 ;All_theoreoms_and_postulates
+
+Definition of perpendicular lines;Two lines that intersect at right angles ;All_theoreoms_and_postulates
+
+Definition of supplementary angles;Two angles that add to 180 ;All_theoreoms_and_postulates
+
+Vertical angles congruence theorem (VACT);<img src="https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/vertical-angles-1-1621940071.png"> ;All_theoreoms_and_postulates
+
+Alternate interior angles theorem;<img src="https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/alternate-interior-angles-theorem-01-1631793110.png"> ;All_theoreoms_and_postulates
+
+Alternate exterior angles theorem;<img src="https://embed-ssl.wistia.com/deliveries/a05d03e5eb6f3e971df68670148135ed.webp?image_crop_resized=1280x720"> ;All_theoreoms_and_postulates
+
+Same side interior angles theorem;<img src="https://dr282zn36sxxg.cloudfront.net/datastreams/f-d%3A91ce9eaa5c4a427538d80d88915519d0a21cfbabb9534f1f08cb0850%2BIMAGE_TINY%2BIMAGE_TINY.1"> ;All_theoreoms_and_postulates
+
+Triangle sum theorem;All interior angles of a triangle add to 180. ;All_theoreoms_and_postulates
+
+Exterior angles theorem;<img src="https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/exterior-angle-theorem-1620303575.png"> ;All_theoreoms_and_postulates
+
+Side-Side-Side Congruence Theorem (SSS Congruence);If the lengths of the sides of one triangle equal the lengths of the corresponding sides of another triangle, then the triangles are congruent. ;All_theoreoms_and_postulates
+
+Corresponding Parts of Congruent Triangles are Congruent (CPCTC);corresponding parts of congruent triangles are congruent ;All_theoreoms_and_postulates
+
+Side-Angle-Side Congruence Theorem (SAS);If two sides of one triangle and the angle between them are equal to the corresponding sides and agle of another triangle, then the two triangles are congruent. ;All_theoreoms_and_postulates
+
+Angle-Side-Angle Congruence Theorem (ASA);If two angles of one triangle and the side between them are equal to the corresponding angles and side of another triangle, then the two triangles are congruent. ;All_theoreoms_and_postulates
+
+Angle-Angle-Side Congruence Theorem (AAS);If two angles and a side of one triangle equal the corresponding angles and side in another triangle as shown below, then the triangles are congruent. ;All_theoreoms_and_postulates
+vocab: herculean.;-- tremendous in size, strength difficulty, or effort. Father 51 sons and 49 daughters in one night. Most famous for his 12 labors. ;Vocab_Energizers_1
+
+vocab: bowdlerize.;-- remove or change parts considered vulgar or immoral. ;Vocab_Energizers_1
+
+vocab: pandemonium.;-- utter confusion or wild uproar. ;Vocab_Energizers_1
+
+vocab: pander.;-- play up to another's desires and weaknesses. ;Vocab_Energizers_1
+
+vocab: quixotic.;-- idealistic but not practical. ;Vocab_Energizers_1
+
+vocab: cynical.;-- doubting the goodness and sincerity of human motives. ;Vocab_Energizers_1
+
+vocab: stoical.;-- indifferent to pain and pleasure. ;Vocab_Energizers_1
+
+vocab: stigma.;-- mark of disgrace. ;Vocab_Energizers_1
+
+vocab: impede.;-- hinder, obstruct, slow down the process of. ;Vocab_Energizers_1
+
+vocab: expedite.;-- speed up; hasten or help the accomplishment of ;Vocab_Energizers_1
+Comma placement: The Idatarod Trail Sled Dog Race begins in March but training starts much sooner.;The Idatarod Trail Sled Dog Race begins in March, but training starts much sooner. Before a coordinating conjuction linking independent clauses ;Comma_Rules
+
+Comma placement: Ethic are based on moral social or cultural values.;Ethics are based on moral, social, or cultural values. To seperate words phrases, or clauses in a series. ;Comma_Rules
+
+Comma placement: I didn't like the movie, it was way too long.;I didn't like the movie. It was way too long ;Comma_Rules
+
+Comma placement: She and Jerry are getting married in the fall, they didn't want a summer wedding.;She and Jerry are getting married in the fall; they didn't want a summer wedding. ;Comma_Rules

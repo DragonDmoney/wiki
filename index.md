@@ -1,4 +1,4 @@
-cards are [here](./all.txt) (total of **87** cards)
+cards are [here](./all.txt) (total of **98** cards)
 # Dorian Spiegel's Academic Wiki
 
 ## Setup

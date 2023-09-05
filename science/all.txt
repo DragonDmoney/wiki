@@ -1,3 +1,16 @@
+What is an energy pyramid?;Transfer of energyy from one trophic level to another ;Biosphere_Ecology
+
+What is the 10% law (energy pyramid)?;Only 10% of energy is passed on to the next level. ;Biosphere_Ecology
+
+What are decomposers?;Decompsers are things that get energy from all tropic levels, break down organic matter. ;Biosphere_Ecology
+
+What is biomass?;The total mass of all the organisms in a tropic level ;Biosphere_Ecology
+
+What are the elements of life?;Carbon (all life forms), nitrogen (proteins, nucleic acid), phosphorous (nucleic acid). ;Biosphere_Ecology
+
+What are biogeochemical cycles?;Movements of elements of life have biotic components, geographical components, and chemical components. ;Biosphere_Ecology
+
+What is eutrophication?;Excess nutrients like phosphorus and nitrogen leads to exponential aquatic plant growth. This depletes dissolved oxygen and prevents sunlight from reahing other plants. As plants and animals die, more oxygen is used up. This creates dead zones. ;Biosphere_Ecology
 What is a degree of freedom?;Degree of freedom is number of possible outcomes - 1. For example, a dice roll would have 5 degrees of freedom. ;Chi_Square
 What makes a question testable?;It must have testable (quantifiable) values. Height, weight, length, etc. It should always have an independent variable ;The_Scientific_Method
 

@@ -29,3 +29,6 @@ How we study interactions
 
 ## [Population Ecology](Population Ecology.md)
 ## [Community Ecology](Community Ecology.md)
+## [Energy Pyramids](Energy Pyramids.md)
+## [Biosphere Ecology](Biosphere Ecology.md)
+

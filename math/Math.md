@@ -4,3 +4,4 @@ cards are [here](/math/all.txt)
 ## First test
 
 - [All theoreoms and postulates](All theoreoms and postulates.md)
+- [Congruence](Congruence.md)
