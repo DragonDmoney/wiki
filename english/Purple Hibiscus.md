@@ -58,6 +58,40 @@ Goes to school and talks to her in front of all her classmates. Her classmates k
 
 She continues to see Mama's blood when she reads, shows that scene significantly traumatized her.
 
+**Chapter 5**
 
+Kambili clings to moments of praise her parents give her without remembering her while avoiding memories of him beating her or being a bad person.
+
+It's strange that they have such a big house in a place they very rarely go. A show of power/strength to their previous village?
+
+Papa gives out money for seemingly no benefit. Perhaps he actually is generous?
+
+There is a huge wealth divide in Abba
+
+The difference between his children and Papa's the Standard is funny, ade coker points it out.
+
+The umunna always supports Papa's decision, shows taht they just want his power/money/aid.
+
+His catholic dogma allows him to let his father live in extremey poverty.
+
+Aunty ifeoma is presented as the opposite of their father, perhaps she will have a bigger role. She helps her father when she has nothing, contrasting to Papa who doesn't help his father when he is extremely rich.
+
+
+
+Kambili clings to moments of praise her parents give her without remembering her while avoiding memories of him beating her or being a bad person.
+
+It's strange that they have such a big house in a place they very rarely go. A show of power/strength to their previous village?
+
+Papa gives out money for seemingly no benefit. Perhaps he actually is generous?
+
+There is a huge wealth divide in Abba
+
+The difference between his children and Papa's the Standard is funny, ade coker points it out.
+
+The umunna always supports Papa's decision, shows taht they just want his power/money/aid.
+
+His catholic dogma allows him to let his father live in extremey poverty.
+
+Aunty ifeoma is presented as the opposite of their father, perhaps she will have a bigger role. She helps her father when she has nothing, contrasting to Papa who doesn't help his father when he is extremely rich.
 
 
